@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600");
+@import url("https://fonts.googleapis.com/css?family=Lato:300");
 @import url("font-awesome.min.css");
 
 /*
@@ -63,7 +63,7 @@
 		background-color: #12151D;
 		color: #999;
 		color: rgba(255, 255, 255, 0.6);
-		font-family: 'Source Sans Pro';
+		font-family: 'Lato';
 		font-weight: 400;
 	}
 
