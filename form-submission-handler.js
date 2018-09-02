@@ -86,11 +86,11 @@
       xhr.onreadystatechange = function() {
           console.log(xhr.status, xhr.statusText);
           console.log(xhr.responseText);
-          var formElements = form.querySelector(".form-elements")
+          var formElements = form.querySelector(".actions")
           if (formElements) {
             formElements.style.display = "none"; // hide form
           }
-          var thankYouMessage = form.querySelector(".container");
+          var thankYouMessage = form.querySelector(".actions");
           if (thankYouMessage) {
             thankYouMessage.style.display = "block";
           }
