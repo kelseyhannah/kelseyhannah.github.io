@@ -89,7 +89,7 @@
 	}
 
 		a:hover {
-			color: #63BF9A;
+			color: #669161;
 		}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -194,7 +194,7 @@
 
 	#header {
 		position: relative;
-		background: #63BF9A url("images/overlay.png");
+		background: #669161 url("images/overlay.png");
 		color: #fff;
 		cursor: default;
         -webkit-transform: translateZ(0);
