@@ -102,6 +102,7 @@
       }).join('&');
       xhr.send(encoded);
     }
+      window.location = "https://www.kelseyhannah.com"
   }
   
   function loaded() {
